@@ -1,0 +1,30 @@
+{
+  "name": "get-safely",
+  "version": "1.0.0",
+  "description": "Run a block of code safely and quietly.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jasmine-node tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cobbdb/get-safely.git"
+  },
+  "keywords": [
+    "get",
+    "safely",
+    "try",
+    "undefined",
+    "unwrap",
+    "quiet"
+  ],
+  "author": "Dan Cobb <cobbdb@gmail.com> (http://www.github.com/cobbdb)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cobbdb/get-safely/issues"
+  },
+  "homepage": "https://github.com/cobbdb/get-safely",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
